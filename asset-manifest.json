@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35c5aeca.css",
+    "main.js": "/static/js/main.1ac00955.js",
+    "static/media/about.png": "/static/media/about.a8e772af15fb87fbf8d4.png",
+    "static/media/img.png": "/static/media/img.6565038b592e9ee7f66d.png",
+    "static/media/logo.png": "/static/media/logo.ab539fa63e8142ce6162.png",
+    "static/media/dad-text_500.png": "/static/media/dad-text_500.3e3466090c3637ba18b3.png",
+    "static/media/bs_light.woff2": "/static/media/bs_light.95afd7fe7fde80ae7d48.woff2",
+    "static/media/bs.woff2": "/static/media/bs.673b6b3293e79fc8f156.woff2",
+    "static/media/logo_.png": "/static/media/logo_.330a0194f5043d1f9982.png",
+    "static/media/freedoc.woff2": "/static/media/freedoc.b6e379e2954728535156.woff2",
+    "static/media/nunito.woff2": "/static/media/nunito.b6e379e2954728535156.woff2",
+    "static/media/openseaPink.svg": "/static/media/openseaPink.df42ed6e5e140a91bf0c66bb6b061d64.svg",
+    "static/media/opensea.svg": "/static/media/opensea.a695c7c058963c274cab211c1d23aaa2.svg",
+    "static/media/discordPink.svg": "/static/media/discordPink.5c54a93199e3e456d8dc8475125eca51.svg",
+    "static/media/discord.svg": "/static/media/discord.65a10198efaada372e1c494420b6cef8.svg",
+    "index.html": "/index.html",
+    "main.35c5aeca.css.map": "/static/css/main.35c5aeca.css.map",
+    "main.1ac00955.js.map": "/static/js/main.1ac00955.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35c5aeca.css",
+    "static/js/main.1ac00955.js"
+  ]
+}
